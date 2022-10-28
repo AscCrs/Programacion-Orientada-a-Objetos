@@ -1,0 +1,15 @@
+public class AlmacenamientoExcel implements Almacenamiento{
+    private String nombreArchivo;
+
+    public void guardar(){
+
+    }
+
+    public void modificar(){
+
+    }
+
+    public void consultar(){
+        
+    }
+}
